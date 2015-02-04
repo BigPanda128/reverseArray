@@ -1,2 +1,2 @@
 # reverseArray
-Reverse and array
+Reverse an array
